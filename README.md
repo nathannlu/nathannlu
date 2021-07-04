@@ -11,4 +11,4 @@ I love building applications & discussing new product ideas. Reach out to me via
 
 - 📱 Building databases at [Dgraph](https://dgraph.io)
 - 📚 Reading Making Modern Science by Peter J. Bowler
-- 🌱 I’m currently learning Go & how to play a guitar
+- 🌱 Learning Go & how to play a guitar
