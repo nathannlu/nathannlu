@@ -5,6 +5,6 @@
 
 asd
 <div align="center">
-  <img src="IMG_3855.png" alt="staring...">
+  <img src="images/stare.png" alt="staring...">
 
   <br>
