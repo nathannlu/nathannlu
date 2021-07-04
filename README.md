@@ -1,10 +1,11 @@
-# I'm Nathan
+<img align="left" width="150" height="150" alt="Nathan Lu" src="images/avatar.png"/>
 
-#### whats up
-![](./IMG_3855.png)
+### I'm [Nathan Lu](https://nathanlu.ca/)
 
-asd
-<div align="center">
-  <img src="images/stare.png" alt="staring...">
+A software developer from Vancouver. I love building applications & discussing new product ideas. Reach out to me via [email](mailto:nathanluyg@gmail.com) if you'd like to talk ✌️
 
-  <br>
+### I'm Currently
+
+- 📱 Building databases at [Dgraph](https://dgraph.io)
+- 📚 Reading Making Modern Science by Peter J. Bowler
+- 👷🏽‍♂️ Working on my own startup ﹣ will be ready soon...
